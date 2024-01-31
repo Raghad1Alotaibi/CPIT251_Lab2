@@ -10,6 +10,7 @@ public class CPIT251 {
         System.out.println("Hi I'm Raghad");
         System.out.println("Hi I'm Raghad 222");
         System.out.println("Hi I'm Raghad 3333");
+        System.out.println("Test");
         
     }
     
